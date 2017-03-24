@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#435356</color>
+
+    <color name="pageBg">#faf8f6</color>
+    <color name="textColor">#666666</color>
+    <color name="goldText">#e6d06d</color>
+    <color name="titleColor">#484848</color>
+    <color name="divColor">#efefef</color>
+
+    <color name="img1">#383838</color>
+    <color name="img2">#2e2e2e</color>
+    <color name="beautiful_blue">#00bebe</color>
+    <color name="bookTitleColor">#222222</color>
+    <color name="bookTextColor">#787878</color>
+    <color name="bookPageBg">#f7f8eb</color>
+    <color name="tran">#6000</color>
+    <color name="strockColor">#e5e5db</color>
+</resources>

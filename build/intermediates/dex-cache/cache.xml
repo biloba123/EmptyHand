@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_082dffc6621a97ab5ee534964c1de18bc2790076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_6c92d7028d511b47c272718e4a0b6561b823573d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\libs\jsoup-1.10.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61f84a97f1a4f5905547b8b74afff8dc93f4cfce">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\jsoup-1.10.2_fddf54c74c13d99821d4901ffc54a18b37bcaa1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_2afcd41de53b6eb3182c486626b8c4363dec787d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_1b17170b526f1586d0392447504337aa6884231c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_1884c4c6dd255cf289d04816d15f2893b130a283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\okio-1.11.0_27e71fcf6a1b5db135e7e5eb96dcac5e4b57f6c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.github.jd-alexander\LikeButton\0.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="042cf6b3b9ef0ea3baacd9b27e4901680769cbc8">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.github.jd-alexander-LikeButton-0.2.0_e6ff5e225c17e01b6380ec0a9a98448031b94ca1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_561045abb5867b98e3eee4cf4e4fbad5f5d3cbd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.github.biloba123\easydownload\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7316c80d63762f5c2518849ffcde9a9b816689ec">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.github.biloba123-easydownload-unspecified_88a4b1d5b094ddd67d82d7189e4fdc8b5a60288c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\AppData\Local\Android\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_a8fa1c2cfb73c2847120113a068a98016e3ab74e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_3e12f9e163a4136a1a7cdb7319814c6a8648e195.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_109423cf1bb53acc51614e2cabd3399b15eac0da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.github.wenchaojiang\AndroidSwipeableCardStack\0.1.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f9f161d9c9aa92769c37391bb028837324c1d014">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.github.wenchaojiang-AndroidSwipeableCardStack-0.1.5_debac27ece519cfbe0580540e28eff5169d4527f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.yalantis\contextmenu\1.0.7\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a751094b3149197fc97f509127ec65ed2329350f">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.yalantis-contextmenu-1.0.7_79703bc05639efbf790d0d29b48e855d73a43bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_5af70b02634798ddb6a2eb8d925b2abf8207a132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_0a02ee87bc971c6c4a140d430be069a2b9e74a02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_32d4ed0bb1550fa1af5310408b2730ba71c1b79a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_fa301eb1482ae38d3199c03df336f9967f3c69e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\library-2.4.0_3c08eb857b46463c7daacd2f8483140435b704fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.1.0_690ff771ee0f093fa9ac92f1510bc0c2f3163b1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.3\7fe1a94c1aeb958acc876fe616922cc191f3222c\rxjava-1.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7fe1a94c1aeb958acc876fe616922cc191f3222c">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\rxjava-1.2.3_15d309d124475e68b2a48d541982c954768f987a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_f1bea9e96ef06c284c37fa450fc22f2f09dbc804.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_8f6746e6a3ba53d72782fc0f1a258a86fa3ca71c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_839c0a3b4ad97019a4577df72f27f172381ad1c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\org.litepal.android\core\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\org.litepal.android-core-1.4.1_ce2908a11a373b8cc21fb7fb878400c9b11f813f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\glide-3.7.0_1db7836c5e308e0984a3eb8d0c1eb3a5b8d4c682.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\wsasus\Desktop\Android projects\EmptyHand\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_89b2d3139ddd2d28ae4a00565de45efe139eba2b.jar" />
+    </item>
+
+</items>

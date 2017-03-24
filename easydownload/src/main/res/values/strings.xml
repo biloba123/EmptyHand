@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Download</string>
+    <string name="exist">文件已存在</string>
+    <string name="success">下载完成</string>
+    <string name="fail">下载失败</string>
+    <string name="pause">下载已暂停</string>
+    <string name="cancel">下载已取消</string>
+    <string name="downloading">下载中...</string>
+</resources>

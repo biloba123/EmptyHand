@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    tools:context="com.lvqingyang.emptyhand.Wallpaper.GalleryDialog">
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="match_parent"
+            android:layout_height="210dp"
+            android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/text_view"
+        android:layout_below="@id/image_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/pageBg"
+        android:textSize="16sp"
+        android:padding="20dp"/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="180dp"
+        android:layout_marginEnd="20dp">
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/wallpaper_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fabSize="mini"
+        android:src="@drawable/ic_action_wallpaper"
+        fab:backgroundTint="@android:color/white"/>
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/download_fab"
+            android:layout_marginLeft="@dimen/text_margin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fabSize="normal"
+            fab:backgroundTint="@color/beautiful_blue"
+            android:src="@android:drawable/stat_sys_download"/>
+    </LinearLayout>
+</RelativeLayout>

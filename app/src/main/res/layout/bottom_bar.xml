@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:orientation="vertical"
+              android:background="@color/pageBg"
+              android:padding="@dimen/text_margin"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+    <include layout="@layout/div"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <com.like.LikeButton
+            android:id="@+id/collect_btn"
+            app:icon_type="star"
+            app:icon_size="25dp"
+            app:like_drawable="@drawable/on_star"
+            app:unlike_drawable="@drawable/off_star"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+        <com.like.LikeButton
+            android:id="@+id/share_btn"
+            app:icon_size="25dp"
+            app:unlike_drawable="@drawable/share"
+            app:like_drawable="@drawable/share"
+            app:circle_end_color="@android:color/holo_blue_dark"
+            app:circle_start_color="@android:color/holo_blue_light"
+            app:dots_primary_color="@android:color/holo_blue_light"
+            app:dots_secondary_color="@android:color/holo_blue_bright"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+</LinearLayout>
