@@ -4,23 +4,23 @@
 
 **每日一文**
 
-![](http://i3.res.meizu.com/fileserver/app_ad_snap/187/2b4e88f3693142b7b25e6a50195a1e1a.jpg)
+![](http://upload-images.jianshu.io/upload_images/5734256-1a47d648ffa881b7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 **随机文句推荐**
 
-![](http://i3.res.meizu.com/fileserver/app_ad_snap/187/72bc9f1fe78143b7a68343c1220f2478.jpg)
+![](http://upload-images.jianshu.io/upload_images/5734256-0c958e2d28673610.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 **短篇书籍**
 
-![](http://i3.res.meizu.com/fileserver/app_ad_snap/187/3d653ba5d63042a1a62addd339e2220c.jpg)
+![](http://upload-images.jianshu.io/upload_images/5734256-da046f4f108a23bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 **每日一图**
 
-![](http://i3.res.meizu.com/fileserver/app_ad_snap/187/ac7043f1bd414fb9916653e5201dcc9d.jpg)
+![](http://upload-images.jianshu.io/upload_images/5734256-1cf962b55f65e074.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 **每日壁纸**
 
-![](http://i3.res.meizu.com/fileserver/app_ad_snap/187/33c7d29b13af4053a15e526fe09bce10.jpg)
+![](http://upload-images.jianshu.io/upload_images/5734256-239f38af8f125811.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/440)
 
 
 http://app.meizu.com/apps/public/detail?package_name=com.lvqingyang.emptyhand
